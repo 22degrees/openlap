@@ -56,11 +56,11 @@ leaderboard-lap {
 }
 .number {
     text-align: left;
-    width: 1.65em;
+    width: 1.2em;
 }
 .lap {
     text-align: left;
-    width: 2.5em;
+    width: 3.4em;
 }
 .name {
     flex-basis: 4em;
@@ -86,15 +86,15 @@ leaderboard-lap {
 }
 .gap, .int {
     text-align: right;
-    width: 5em;
+    width: 5.1em;
 }
 .laps, .pits {
     text-align: right;
-    width: 3em;
+    width: 4.1em;
 }
 .fuel {
     text-align: left;
-    width: 4.5em;
+    width: 5.7em;
 }
 .status {
     span {
@@ -139,6 +139,7 @@ leaderboard-lap {
 
 span.title {
     font-size: 75%;
+    text-transform: uppercase;
 }
 
 span.best {
